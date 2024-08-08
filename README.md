@@ -1,7 +1,6 @@
 # Hey there, I am Angelina Kumanova 👋🏻
 <br>
 <br>
-<br>
 
 ## [About me]
 - 📚: I am currently studying to become a Full-Stack Developer **(Java and JavaScript)!**
