@@ -1,4 +1,4 @@
-# Hey there, I am Angelina Kumanova 👋🏻
+# Hey there, I am Andjelina Kumanova 👋🏻
 <br>
 <br>
 
