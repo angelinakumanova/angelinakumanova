@@ -9,5 +9,5 @@
 <br>
 <br>
 
-## [Languages]
+## [Tech Stack]
  <img  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java Logo" width="40" height="40" align="left" style="padding-right: 10px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS Logo" width="40" height="40" align="left" style="padding-right: 10px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="HTML Logo" width="40" height="40" align="left" style="padding-right: 10px;" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40" align="left" style="padding-right: 10px;"/> 
