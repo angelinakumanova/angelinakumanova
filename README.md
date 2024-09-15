@@ -1,15 +1,14 @@
 # Hey there, I am Andjelina Kumanova 👋🏻
-<br>
-<br>
-
-
+<p align="center">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWludmxpb2pzMDc3NWQxdmszOWF4bHZ5MzVrNnlzdnBidnYxN2cyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="200px">
+</p>
 
 
 ## [About me]
 - 📚: I am currently studying to become a Full-Stack Developer **(Java and JavaScript)!**
 - 💻: I've been passionate about PCs since I was a kid, starting as a gaming enthusiast and evolving into a dedicated coder. My strong foundation in mathematics during school has sharpened my problem-solving skills, which I now apply in my coding.
 - 💡: I firmly believe the human potential is endless, so I am always up for new opportunities and challenges!
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JrNjVkM2Qwb2thaDcwMXB2bmI2ZTVnbDE0Y2x3ajI2Y3o0ZDlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200px" align="right">
+
 <br>
 <br>
 
