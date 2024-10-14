@@ -3,11 +3,17 @@
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWludmxpb2pzMDc3NWQxdmszOWF4bHZ5MzVrNnlzdnBidnYxN2cyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="200px">
 </p>
 
-
 ## [About me]
-- 📚: I am currently studying to become a Full-Stack Developer **(Java and JavaScript)!**
-- 💻: I've been passionate about PCs since I was a kid, starting as a gaming enthusiast and evolving into a dedicated coder. My strong foundation in mathematics during school has sharpened my problem-solving skills, which I now apply in my coding.
-- 💡: I firmly believe the human potential is endless, so I am always up for new opportunities and challenges!
+<br>
+
+👩🏻‍💻 **Currently:** studying to become a Full-Stack Developer **(Java and JavaScript)!**
+<br>
+<br>
+💻 **What got me into coding:** Since childhood, I've had a passion for PCs, starting out as a gaming enthusiast<br>
+and gradually transitioning into a committed coder.
+<br>
+
+💡 I firmly believe the human potential is endless, so I am always up for new opportunities and challenges!
 
 <br>
 <br>
