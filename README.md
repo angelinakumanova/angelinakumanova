@@ -10,8 +10,8 @@
 
 <br>
 
-💻 **What got me into coding:** Since childhood, I’ve been passionate about PCs and gaming, and in high school, my interest in mathematics deepened.
-The combination of these two pursuits ultimately fostered my dedication to coding.
+💻 **What got me into coding:** Since childhood, I’ve been passionate about PCs and gaming, and in high school, my interest in mathematics deepened, so
+the combination of these two pursuits ultimately fostered my dedication to coding.
 
 <br>
 
