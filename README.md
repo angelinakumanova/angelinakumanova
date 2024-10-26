@@ -6,7 +6,7 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWludmxpb2pzMDc3NWQxdmszOWF4bHZ5MzVrNnlzdnBidnYxN2cyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="250px" align="right" />
  
-👩🏻‍💻 **Currently:** Studying to become a Full-Stack Developer **(Java and JavaScript)!**
+👩🏻‍💻 **Currently:** Currently progressing through the **Java** development program at SoftUni !
 
 <br>
 
