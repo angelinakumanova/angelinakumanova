@@ -10,12 +10,11 @@
 
 <br>
 
-💻 **What got me into coding:** Since childhood, I’ve been passionate about PCs and gaming, and in high school, my interest in mathematics deepened, so
-the combination of these two pursuits ultimately fostered my dedication to coding.
+💻 **What got me into coding:** From a young age, I have been passionate about computer games, and this interest gradually evolved into a **love for coding.** I thrive on **solving complex challenges** that not only put my **logical thinking** to the test but also ignite my **creativity**. I’m always excited to tackle new problems and find innovative solutions.
 
 <br>
 
-💡 I firmly believe the human potential is endless, so I am always up for new opportunities and challenges!
+💡 I firmly believe the human potential is **endless**, so I am always up for **new opportunities and challenges!**
 
 <br>
 
