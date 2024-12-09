@@ -10,7 +10,7 @@
 
 <br>
 
-💻 **What got me into coding:** From a young age, I have been passionate about computer games, and this interest gradually evolved into a **love for coding.** I thrive on **solving complex challenges** that not only put my **logical thinking** to the test but also ignite my **creativity**. I’m always excited to tackle new problems and find innovative solutions.
+💻 From a young age, I have been passionate about computer games, and this interest gradually evolved into a **love for coding.** I thrive on **solving complex challenges** that not only put my **logical thinking** to the test but also ignite my **creativity**. I’m always excited to tackle new problems and find innovative solutions.
 
 <br>
 
