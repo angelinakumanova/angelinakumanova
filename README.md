@@ -1,4 +1,4 @@
-# Hey there, I am Andjelina Kumanova 👋🏻
+# Hii, I am Andjelina - I build cool stuff with code 👩🏻‍💻
 
 <br>
 
