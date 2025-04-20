@@ -1,4 +1,4 @@
-# Hii, I am Andjelina - I build cool stuff with code 👩🏻‍💻
+# Hii, I am Andjelina 👩🏻‍💻
 
 <br>
 
