@@ -1,5 +1,6 @@
 # Hii, I am Andjelina 👩🏻‍💻
 
+**i love the journey of coding - every bug, every breakthrough, every moment of clarity.**
 <br>
 
 ## [About me]
