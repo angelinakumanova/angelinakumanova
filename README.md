@@ -25,5 +25,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="HTML Logo" width="30" height="30" align="left" style="padding-right: 10px;" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30" align="left" style="padding-right: 10px;"/>
  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL Logo" width="55" height="30" align="left" style="padding-right: 10px;"/>
+ <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="MongoDB Logo" width="30" height="30" align="left" style="padding-right: 10px;"/>
  
 
